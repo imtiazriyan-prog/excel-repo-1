@@ -196,7 +196,7 @@ To capture: Go to `Dashboard` sheet → `File > Export > Save as PDF` or take a 
 Imtiaz Ahmad
 Data analyst who turns raw data into clear insights using a strong toolkit that includes Microsoft Excel, SQL, Python, Microsoft Power BI, and Tableau. Combine technical skills with analytical thinking to build dashboards, automate reporting, uncover trends, and support smarter business decisions.
 - 📧 Email: imtiazahmadriyan@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/imtiaz-ahmad-49b5043b9/
+- 💼 LinkedIn: https://www.linkedin.com/in/imtiaz-ahmad-a716a15a
 - 🐙 GitHub: https://github.com/imtiazriyan-prog
 
 ---
